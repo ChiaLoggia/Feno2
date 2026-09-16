@@ -3,7 +3,7 @@ window.QUESTIONNAIRE_DATA = [
   {
     slug: "masterclass-jp",
     presenter: "Juan Pablo Paz",
-    title: "Masterclass de Juan Pablo Paz",
+    title: "Masterclass JPP",
     passingScore: 4,
     questions: [
       {

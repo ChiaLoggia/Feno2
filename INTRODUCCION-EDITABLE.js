@@ -1,7 +1,7 @@
 /* EDITABLE: textos de las dos pantallas iniciales. */
 window.INTRO_CONTENT = {
   "masterclass-jp": {
-    portadaTitulo: "Masterclass de Juan Pablo Paz",
+    portadaTitulo: "Masterclass JPP",
     portadaSubtitulo: "",
     portadaTexto: "Queremos acompañarte a revisar los principales contenidos de esta masterclass. La actividad te llevará pocos minutos y, si alcanzás el puntaje de aprobación, podrás descargar tu certificado.",
     evaluacionTitulo: "A continuación te invitamos a responder unas preguntas sobre el contenido de la masterclass",
